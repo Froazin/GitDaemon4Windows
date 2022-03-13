@@ -5,7 +5,8 @@ _**This project uses [Serilog](https://github.com/serilog/serilog) under and Apa
 
 #### Notes:
 * Requires Git for Windows to be installed.
-* Requires admin access to install. Provided PowerShell script for this must be in the same folder as GitDaemon4Windows.exe.
+* Provided PowerShell install script for this must be in the same folder as GitDaemon4Windows.exe.
+* Must have **admin** on a machine to install.
 * [Requires .Net Core 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 * Logs are sent to "_Windows\System32\LogFiles\GitDaemon4Windows\GitDaemon4Windows.log_"
 
